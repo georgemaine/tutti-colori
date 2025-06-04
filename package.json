@@ -1,0 +1,21 @@
+{
+  "name": "tutti-colori",
+  "displayName": "Tutti Colori",
+  "description": "Tutti Colori is a light, colorful theme inspired by MacRabbit's popular code editor. It supports coding languages like HTML, CSS, JS, and JSON, giving you everything you need to build amazing products for the Web.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tutti Colori",
+        "uiTheme": "vs",
+        "path": "./themes/Tutti Colori-color-theme.json"
+      }
+    ]
+  }
+}
